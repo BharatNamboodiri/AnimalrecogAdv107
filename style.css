@@ -1,0 +1,36 @@
+body
+{
+    background: grey;
+    color:blue;
+}
+.header
+{
+    background-color: grey;
+    color: aliceblue;
+    text-align: center;
+    width: 100%;
+}
+.header p
+{
+    font-family: 'Lora', serif;
+}
+.copy_right_footer
+{
+    position:fixed;
+    color: grey;
+    bottom: 0;
+    width: 100%;
+    font-size: 18px;
+    background-color: white;
+    line-height: 3;
+    text-align: center;
+    text-shadow:5px 5px 5px rgb(151, 149, 149)
+}
+.maindiv
+{
+    background-color: rgb(158, 158, 158);
+    height: 1000px;
+}
+.maindiv button{
+    margin-top: 10px;
+}
